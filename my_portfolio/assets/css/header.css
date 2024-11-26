@@ -58,6 +58,7 @@
 .information a {
     color: #ffffff;
     text-decoration: none;
+    overflow-wrap: anywhere;
 }
 .information :hover{
     text-decoration: underline;
